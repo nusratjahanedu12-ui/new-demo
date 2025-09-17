@@ -1,4 +1,4 @@
 # new-demo
 This is my first GitHub repository 
 
-author-Nusrat jahan priya
+author-Nusrat jahan (priya)
